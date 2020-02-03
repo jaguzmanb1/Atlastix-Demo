@@ -1,0 +1,5 @@
+.idea
+build/
+*cfg
+collector/clientConfig.py
+collector/elasticConfig.py
